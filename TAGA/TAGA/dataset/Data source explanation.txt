@@ -1,3 +1,0 @@
-Data source for MoculeNet
-  https://github.com/zhao-ht/GIMLET
-  https://github.com/JiaruiFeng/TAGLAS
